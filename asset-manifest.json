@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/food-delivery/static/css/main.34abe003.css",
-    "main.js": "/food-delivery/static/js/main.207229ae.js",
-    "static/js/453.bcad73e1.chunk.js": "/food-delivery/static/js/453.bcad73e1.chunk.js",
-    "static/media/Blueberry.png": "/food-delivery/static/media/Blueberry.6e838308f5a4e913d8df.png",
-    "static/media/Cinnamon.png": "/food-delivery/static/media/Cinnamon.4ab4d56e6111c2566aca.png",
-    "static/media/Chocolate.png": "/food-delivery/static/media/Chocolate.9eacdbc54d66deecef2b.png",
-    "static/media/Croissant.png": "/food-delivery/static/media/Croissant.1c78a931635533338405.png",
-    "static/media/Macarons.png": "/food-delivery/static/media/Macarons.e47b68c4c23a8c1d0ec1.png",
-    "static/media/Cheesecake.png": "/food-delivery/static/media/Cheesecake.de2e394536051d865304.png",
-    "static/media/Éclair.png": "/food-delivery/static/media/Éclair.9a47c6136a904d38db73.png",
-    "static/media/Tiramisu.png": "/food-delivery/static/media/Tiramisu.c978f2ba2ef365853f0a.png",
-    "static/media/dessert.png": "/food-delivery/static/media/dessert.2a43ab9a1583e3d93638.png",
-    "index.html": "/food-delivery/index.html",
-    "main.34abe003.css.map": "/food-delivery/static/css/main.34abe003.css.map",
-    "main.207229ae.js.map": "/food-delivery/static/js/main.207229ae.js.map",
-    "453.bcad73e1.chunk.js.map": "/food-delivery/static/js/453.bcad73e1.chunk.js.map"
+    "main.css": "/dessert-shop/static/css/main.34abe003.css",
+    "main.js": "/dessert-shop/static/js/main.2cc70224.js",
+    "static/js/453.bcad73e1.chunk.js": "/dessert-shop/static/js/453.bcad73e1.chunk.js",
+    "static/media/Blueberry.png": "/dessert-shop/static/media/Blueberry.6e838308f5a4e913d8df.png",
+    "static/media/Cinnamon.png": "/dessert-shop/static/media/Cinnamon.4ab4d56e6111c2566aca.png",
+    "static/media/Chocolate.png": "/dessert-shop/static/media/Chocolate.9eacdbc54d66deecef2b.png",
+    "static/media/Croissant.png": "/dessert-shop/static/media/Croissant.1c78a931635533338405.png",
+    "static/media/Macarons.png": "/dessert-shop/static/media/Macarons.e47b68c4c23a8c1d0ec1.png",
+    "static/media/Cheesecake.png": "/dessert-shop/static/media/Cheesecake.de2e394536051d865304.png",
+    "static/media/Éclair.png": "/dessert-shop/static/media/Éclair.9a47c6136a904d38db73.png",
+    "static/media/Tiramisu.png": "/dessert-shop/static/media/Tiramisu.c978f2ba2ef365853f0a.png",
+    "static/media/dessert.png": "/dessert-shop/static/media/dessert.2a43ab9a1583e3d93638.png",
+    "index.html": "/dessert-shop/index.html",
+    "main.34abe003.css.map": "/dessert-shop/static/css/main.34abe003.css.map",
+    "main.2cc70224.js.map": "/dessert-shop/static/js/main.2cc70224.js.map",
+    "453.bcad73e1.chunk.js.map": "/dessert-shop/static/js/453.bcad73e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34abe003.css",
-    "static/js/main.207229ae.js"
+    "static/js/main.2cc70224.js"
   ]
 }
